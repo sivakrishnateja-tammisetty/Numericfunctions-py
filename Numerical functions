@@ -1,0 +1,13 @@
+NUMERIC FUNCTIONS: we can implement in numericals
+
+1.max()
+2.min()
+3.abs() ==>It takes only 1 argument
+4.pow() ==>It takes 2 arguments
+
+
+
+print(max(1,5,3,9,0))
+print(min(1,5,3,9,0))
+print(abs(-9720))
+print(pow(2,3))
